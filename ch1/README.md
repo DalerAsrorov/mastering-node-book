@@ -170,4 +170,6 @@ The output is:
 
 #### The process object
 
--
+- provides info on and control over the current running process
+- instance of `EventEmitter`
+- accessible from any scope
