@@ -1,6 +1,6 @@
 ## Understanding the Node Environment
 
-- Google released Chrome in 2008 and Ryan Dah wrote NodeJS in 2009
+- Google released Chrome in 2008 and Ryan Dahl wrote NodeJS in 2009
 - NodeJS imagines JavaScript as a systems language, like C. It can manipulate memory buffers, processes and streams, and files and sockets. Due to performance of the V8 engine.
 - V8 is an engine that provides the runtime environment in which JavaScript executes. JavaScript engine is independent of the browser in which it's hosted. This key feature enabled the rise of Node.
 - _Write programs to handle text streams, because that is a universal interface_ - Peter Salus, A Quarter-Century of Unix 1994
