@@ -40,4 +40,5 @@
 
 - Event-driven programming is like hardware interrupt programming. Interrupts do exactly what their name suggests - they use their ability to interrupt whatever a controller, or the CPU, or any other device is doing, demanding that their particular need is to be serviced immediately.
 - For example, `SIGINT` is sent to a process when its controlling terminal detects _Ctrl + C_. Look for an example in in [sigint.js](./sigint.js)
+- Sometimes we want to send a signal with one process from another one. This is called **Inter Process Communication**.
 -
